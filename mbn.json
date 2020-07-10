@@ -6,39 +6,39 @@
 					"img": "Images/newest_img/newest_1.img"
 				},
 				{
-					"second_news": "Jeff Bezos hack: UN experts demand probe of Saudi crown prince...",
+					"first_news": "Jeff Bezos hack: UN experts demand probe of Saudi crown prince...",
 					"img": "Images/newest_img/newest_2.img"
 				},				
 				{
-					"third_news": "Monty Python's Terry Jones: Master of the absurd",
+					"first_news": "Monty Python's Terry Jones: Master of the absurd",
 					"img": "Images/newest_img/newest_3.img"
 				},			
 				{
-					"fourth_news": "The alphabets at risk of extinction...",
+					"first_news": "The alphabets at risk of extinction...",
 					"img": "Images/newest_img/newest_4.img"
 				},			
 				{
-					"fift_news": "Gareth Bale loan reports 'ridiculous', says his agent Jonathan Barnett...",
+					"first_news": "Gareth Bale loan reports 'ridiculous', says his agent Jonathan Barnett...",
 					"img": "Images/newest_img/newest_5.img"
 				},			
 				{
-					"sixth_news": "We’re finally talking about structural racism...",
+					"first_news": "We’re finally talking about structural racism...",
 					"img": "Images/newest_img/newest_6.img"
 				},				
 				{
-					"seventh_news": "We need smart solutions to mitigate the corona...",
+					"first_news": "We need smart solutions to mitigate the corona...",
 					"img": "Images/newest_img/newest_7.img"
 				},
 				{
-					"eighth_news": "Supreme Court blocks Trump’s attempt to end DACA...",
+					"first_news": "Supreme Court blocks Trump’s attempt to end DACA...",
 					"img": "Images/newest_img/newest_7.img"
 				},
 				{
-					"nineth_news": "Top GOP donor used racial stereotypes...",
+					"first_news": "Top GOP donor used racial stereotypes...",
 					"img": "Images/newest_img/newest_7.img"
 				},	
 				{
-					"tenth_news": "As police chief in Camden, N.J..",
+					"first_news": "As police chief in Camden, N.J..",
 					"img": "Images/newest_img/newest_7.img"
 				}
 		]
