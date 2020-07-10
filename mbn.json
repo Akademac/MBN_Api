@@ -121,5 +121,30 @@
 			"img": "Images/music_img/main_music.jpg"
 			}
 		]
+	},
+		{
+		"culture_main": {
+			"heading": "Film",
+			"news": "Cinema's greatest decade?",
+			"img": "Images/culture_img/main_culture.png"
+		},
+
+		"politics_other": [
+			{
+			"heading": "Theater",
+			"news": "The era that began 100 years ago brought more change...",
+			"img": "Images/culture_img/culture_other_1.jpg"
+			},
+			{
+			"heading": "Designed",
+			"news": "Five stunning outdoor spaces for all...",
+			"img": "Images/culture_img/culture_other_2.jpg"
+			},
+			{
+			"heading": "Books",
+			"news": "The most joyful books ever written...",
+			"img": "Images/culture_img/culture_other_3.jpg"
+			}
+		]
 	}
 ]
