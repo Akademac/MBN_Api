@@ -48,7 +48,7 @@
 	{
 		"politics_main": {
 			"heading": "Trump Roars, and Davos Shrugs",
-			"news": "DAVOS, Switzerland—Two years ago President Donald Trump flew here and took the gathering of elites at the World Economic Forum by storm. Every conversation seemed to revolve around the American leader and his signature brand of political disruption.",
+			"news": "DAVOS, Switzerland—Two years ago President Donald Trump flew here and took the gathering of elites at the World Economic Forum by storm. Every conversation seemed to revolve around the American leader and his signature brand of political disruption...",
 			"img": "Images/politics_img/main_pol_img.jpg"
 						},
 
@@ -70,5 +70,26 @@
 							"news": "Austria is still refusing to sign up to a key United Nations..."
 							}									
 						]
+	},
+
+	{
+		"sports": [
+			{
+			"heading": "Lack of discipline from players cost Jose Mourinho...",
+			"img": "Images/sports_img/sports_div_1.jpg"
+			},
+			{
+			"heading": "Roger Federer out of French Open after knee surgery...",
+			"img": "Images/sports_img/sports_div_2.jpg"
+			},
+			{
+			"heading": "Pep Guardiola vows to stay at Manchester City despite Champions League ban...",
+			"img": "Images/sports_img/sports_div_3.jpg"
+			},
+			{
+			"heading": "NBA All-Star Game Fast Facts...",
+			"img": "Images/sports_img/sports_div_4.jpg"
+			}			
+		]
 	}
 ]
