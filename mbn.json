@@ -1,3 +1,4 @@
+  
 [
 	{
 		"fp_newest": [
@@ -42,5 +43,31 @@
 					"img": "Images/newest_img/newest_10.jpg"
 				}
 		]
+	},
+
+	{
+		"politics_main": {
+			"heading": "Trump Roars, and Davos Shrugs",
+			"news": "DAVOS, Switzerland—Two years ago President Donald Trump flew here and took the gathering of elites at the World Economic Forum by storm. Every conversation seemed to revolve around the American leader and his signature brand of political disruption.",
+			"img": "Images/politics_img/main_pol_img.jpg"
+						},
+
+		"polics_other": [
+							{
+							"heading": "Flynn attorneys argue against...",
+							"news": "Former national security adviser Michael Flynn should get probation and lore..."
+							},
+							{
+							"heading": "Morning Consult Poll...",
+							"news": "47% of voters are in favor of President Donald Trump’s removal from office..."
+							},
+							{
+							"heading": "Taliban offer ceasefire in bid to restart talks with US...",
+							"news": "The Taliban will implement a 10-day ceasefire with US troops..."
+							},
+							"heading": "Austria's new green-conservative coalition rejects UN migrants treaty...",
+							"news": "Austria is still refusing to sign up to a key United Nations..."
+							}									
+						]
 	}
 ]
