@@ -52,7 +52,7 @@
 			"img": "Images/politics_img/main_pol_img.jpg"
 						},
 
-		"polics_other": [
+		"politics_other": [
 							{
 							"heading": "Flynn attorneys argue against...",
 							"news": "Former national security adviser Michael Flynn should get probation and lore..."
@@ -129,7 +129,7 @@
 			"img": "Images/culture_img/main_culture.png"
 		},
 
-		"politics_other": [
+		"culture_other": [
 			{
 			"heading": "Theater",
 			"news": "The era that began 100 years ago brought more change...",
