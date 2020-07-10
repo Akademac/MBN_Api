@@ -1,4 +1,4 @@
-  
+
 [
 	{
 		"fp_newest": [
@@ -90,6 +90,36 @@
 			"heading": "NBA All-Star Game Fast Facts...",
 			"img": "Images/sports_img/sports_div_4.jpg"
 			}			
+		]
+	},
+
+	{
+		"music": [
+			{
+			"heading": "The best James Bond themes that never made it to the screen",
+			"news": "The James Bond movie theme tunes have become an indelible part of pop music culture. Almost from the get-go, with Sean Connery’s industry-creating turn as the suave secret agent in Dr No, the Bond films’ producers hit upon a formula as long-lasting as the secret agent himself...",
+			"img": "Images/music_img/first_music.jpg"
+			},
+			{
+			"heading": "14 facts about the Grammy Songs Of The Year award",
+			"news": "In 1959, Grammy judges inaugurated Song Of The Year – and it’s become one of the most sought-after prizes at the ceremony...",
+			"img": "Images/music_img/second_music.jpg"
+			},
+			{
+			"heading": "The oddest Grammy Album Of The Year awards",
+			"news": "Blood, Sweat and Tears over The Beatles? Eric Clapton over Nirvana? Steely Dan over Eminem? Herbie Hancock over Amy Winehouse? Surely some mistake?",
+			"img": "Images/music_img/third_music.jpg"
+			},
+			{
+			"heading": "The 20 best songs of 2019",
+			"news": "The final year of the decade saw A-list superstars relatively quiet on the singles front; instead we saw newcomers shine, and more established artists revived, re-energised and reinvented. Here are the tracks that topped our playlist, setting the scene for an exciting decade to come",
+			"img": "Images/music_img/fourth_music.jpg"
+			},
+			{
+			"heading": "Andrew Weatherall: The ’90s master of the remix",
+			"news": "Andrew Weatherall, the legendary DJ and producer has died aged 56 from a pulmonary embolism. Weatherall, who was born in Windsor, England, rose to fame during the 1990s acid house/dance era. As well as working with the legends like New Order and Happy Mondays, his work on Primal Scream’s Screamadelica turned it into an era-defining album, mixing the band’s rock swagger with club influences to create a dance album injected with the furious spirit of punk...",
+			"img": "Images/music_img/main_music.jpg"
+			}
 		]
 	}
 ]
