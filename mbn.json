@@ -362,6 +362,40 @@
 				"unlikes": 175,
 				"comments": 79
 				}
+			],
+			"culture": [
+				{				
+				"heading": "Film",
+				"news": "Since motion pictures first arrived in the late 19th Century, each new decade has heralded movements and styles that influenced the development of cinema. The 1940s and ‘50s constituted peak periods for US film noir, for example, while the convention-upturning French New Wave blossomed in the 1960s. Both of these genres made a big impact on cinematic storytelling, but which decade tipped the axis of the motion picture medium in the most profound ways? More like this: The bold pioneers of early cinema Was 1999 cinema’s last great year? Is Napoleon the greatest film ever made? If we view decades solely in terms of artistic quality, then personal preference, inevitably, comes into play. If film noir is my favourite genre, for example, I am more likely to recognise – or overstate –  the significance of the era from which it emanated. If technological and industry-based changes are included as well as artistic output, however, the task is easier and the answers more conclusive. Yet even when several factors are considered, the needle swings towards one decade as a period of unparalleled change: the ‘Roaring Twenties’. There are several reasons why the decade that began a century ago saw the kind of transformative change that will never come again. They include artistic movements that played a huge role in developing cinematic language, the formation of industry initiatives still hugely influential today, the introduction of perhaps the most significant technical development since the projection of moving images (hint: it involves another sense – the one experienced through your ears), as well as the enduring impact of the films themselves.",
+				"img": "Images/culture_img/main_culture.png",
+				"likes": 111,
+				"unlikes": 151,
+				"comments": 672
+				},	
+				{				
+				"heading": "Theater",
+				"news": "In any year but this one, outdoor theater is part of the rhythm of summertime. We base our migrations on it, making pilgrimages to favorite seasonal spots. As ancient as Western drama itself, open-air theater is for the most part not happening right now — no queuing for hours to snag a coveted free ticket to Shakespeare in the Park, no spreading of blankets and picnics to watch shows that start in the gloaming and end well after dark. It’s a different absence than the loss of indoor theater, partly because of how fondly we cherish summer traditions. But as the director Anne Bogart said in a phone interview, outdoor performance by its nature involves a fuller embrace of life, and of accidents.",
+				"img": "Images/culture_img/culture_other_1.jpg",
+				"likes": 211,
+				"unlikes": 158,
+				"comments": 122
+				},	
+				{				
+				"heading": "Designed",
+				"news": "Wide open spaces – squares, gardens, plazas and parks – have always been appealing oases in bustling cities. They are places to socialise, or to indulge in solitary reading and sunbathing. Now more than ever they are synonymous with freedom, providing a sense of release and respite from domestic confinement. And with social distancing a reality for many of us, spending time in large outdoor spaces is good for our health in more ways than one. We suggest several spectacular outdoor projects created by architects and landscaping experts that will satisfy our hankering for space – and shed light on new developments in urban design.",
+				"img": "Images/culture_img/culture_other_2.jpg",
+				"likes": 154,
+				"unlikes": 52,
+				"comments": 243
+				},	
+				{				
+				"heading": "Books",
+				"news": "Need some positive thinking? How about some books that make you happy? While the idea of a book ‘making you happy’ is obviously a stretch, peace of mind is often a product of a simple cognitive pattern: you see what you think about, and you think about what you see. Happy in, happy out. This is difficult when wisdom, empathy, love, and happiness are drowned out by a news cycle bent on spectacle. These days the news is hard to escape — between social media, television, radio, and well-meaning friends and colleagues, we are inundated with what’s going on in the outside world. And unfortunately, it seems like it’s seldom good news, partially due to the fact that sensationalism sells but also because there’s a lot going on right now. But do we need to know all of it? While a working knowledge of current events is important, all too often we’re immersed in the 24-hour news cycle and when negativity abounds, our mental health and sense of well-being begin to erode. Short of going all Henry Thoreau and retreating to the woods for a while, what can we do to lift our spirits, find an escape, and change the things we think about? The first and most obvious step is to abstain from social media, but that’s not entirely effective — or even possible, in many cases. A second possibility is to fill our brains with good stuff; to seek out positivity and nourish our souls with that instead. The following list contains both fiction and non-fiction ‘happy books’–everything from self-help to humor but what these books share in common is their ability to inspire happiness. As Oscar Wilde once said, “It is what you read when you don’t have to that determines who you will be when you can’t help it.” Maybe reading can make you happy.",
+				"img": "Images/culture_img/culture_other_3.jpg",
+				"likes": 311,
+				"unlikes": 131,
+				"comments": 22
+				}
 			]
 		}
 	}
