@@ -319,6 +319,49 @@
 				"unlikes": 113,
 				"comments": 118	
 				}
+			],
+						
+			"music": [
+				{				
+				"heading": "The best James Bond themes",
+				"news": "The James Bond movie theme tunes have become an indelible part of pop music culture. Almost from the get-go, with Sean Connery’s industry-creating turn as the suave secret agent in Dr No, the Bond films’ producers hit upon a formula as long-lasting as the secret agent himself. While each official Eon Productions Bond film has featured the characteristic theme tune by Monty Norman – you’re humming it now – they have also featured a secret weapon, one which makes each film as distinct as the villain the vodka-martini-sipping spy has to despatch: the theme song. It’s impossible to think of Live And Let Die (1973) without Wings’ apocalyptic slice of rock opera, or A View To A Kill (1985) without Duran Duran’s grandiose theme song. And that’s before we even consider Shirley Bassey’s masterclasses of cinematic unsubtlety with Goldfinger. So, spare a thought for those well-known artists who penned a Bond theme hoping for immortality, only for it to be rejected on the casting couch. As Billie Eilish prepares to unleash her Bond theme No Time To Die at the Brit Awards, BBC Music looks back at some of the Bond themes that might have been…",
+				"img": "Images/music_img/first_music.jpg",
+				"likes": 111,
+				"unlikes": 151,
+				"comments": 672
+				},	
+				{				
+				"heading": "14 facts about the Grammy Songs ",
+				"news": "The 62nd Annual Grammy Awards will take place at the Staples Center in Los Angeles over this weekend, and Song Of The Year is one of the most coveted prizes. Win this, and you join a hallowed hall featuring songs from only the most respected songwriters of the modern era: The Beatles, Frank Sinatra, Elton John and, er, The Doobie Brothers (well, it was the end of the Seventies). The Grammys recognition of the greatest song of the year is a little more complicated than most awards. Song Of The Year rewards the songwriters who wrote and composed the song, but the awards also have Record Of The Year, a prize that goes to the singer and production team. Last year, This Is America by Childish Gambino won the Song Of The Year award, this year the nominations are: Always Remember Us This Way (Lady Gaga Bad Guy (Billie Eilish) Bring My Flowers Now (Tanya Tucker) Hard Place (H.E.R.) Lover (Taylor Swift) Norman Fing Rockwell (Lana Del Rey) Someone You Loved (Lewis Capaldi) Truth Hurts (Lizzo)",
+				"img": "Images/music_img/second_music.jpg",
+				"likes": 211,
+				"unlikes": 158,
+				"comments": 122
+				},	
+				{				
+				"heading": "The oddest Grammy Album",
+				"news": "Awards ceremony judging panels are often accused of being pale, male and stale, an ageing cabal out of touch with contemporary culture. It’s a brickbat that has been hurled at the Grammy voting panel for some time. In 2018, the only one of its best album nominees not to play one of their songs live was the only woman up for the prize – Lorde. The same year, U2 were featured no less than three times during the broadcast, despite not even being up for an award. The awards consistently overlooked dance music, only creating a category for it in 1998, a decade since the heyday of dance culture. And the less said about the Grammy’s arm’s length relationship with hip-hop the better. The awards’ sometimes dizzying list of categories – which currently stands at 78, having been cut from 109 in 2012 – means artists in all sorts of less high-profile genres (jazz, comedy, children’s) get their nods alongside the usual red-carpet favourites. For instance, Elmo the Muppet has won a Grammy three times – for Best Musical Album for Children in 1998 (Elmopalooza!), 199(The Adventures Of Elmo In Grouchland), and 2001 (Elmo And The Orchestra).",
+				"img": "Images/music_img/third_music.jpg",
+				"likes": 154,
+				"unlikes": 52,
+				"comments": 243
+				},	
+				{				
+				"heading": "The 20 best songs of 2019",
+				"news": "More than 50 Guardian music writers were polled for their favourite albums and tracks of the year, and a bewilderingly complex spreadsheet was created to tally their votes. Ahead of our countdown of the resulting 50 best albums of the year, we’re kicking off with a list of the 20 best songs. We’ve also put as many as possible of the 593 tracks that were voted for into a Spotify and Apple Music playlist.",
+				"img": "Images/music_img/fourth_music.jpg",
+				"likes": 311,
+				"unlikes": 131,
+				"comments": 22
+				},	
+				{				
+				"heading": "Andrew Weatherall: The ’90s master of the remix",
+				"news": "Andrew Weatherall, the legendary DJ and producer has died aged 56 from a pulmonary embolism. Weatherall, who was born in Windsor, England, rose to fame during the 1990s acid house/dance era. As well as working with the legends like New Order and Happy Mondays, his work on Primal Scream’s Screamadelica turned it into an era-defining album, mixing the band’s rock swagger with club influences to create a dance album injected with the furious spirit of punk.The tributes to Weatherall have come from far and wide. BBC 6 Music DJ Giles Peterson said it was “hard to put into words the influence and impact he has had on UK culture.” Trainspotting author Irvine Welsh said: “Genius is an overworked term but I’m struggling to think of anything else that defines him.” BBC 6 Music’s Matt Everett said: “As a producer he was always thinking about the wrong thing to do, which made it the right thing to do invariably. His mission to navigate the darker sides of techno simultaneously with vintage rock ‘n’ roll made him this incredibly inventive figure.”",
+				"img": "Images/music_img/main_music.jpg",
+				"likes": 15,
+				"unlikes": 175,
+				"comments": 79
+				}
 			]
 		}
 	}
