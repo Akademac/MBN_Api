@@ -225,13 +225,56 @@
 				"comments": 72
 				},
 				{				
-				"heading": "As police chief in Camden, N.J",
+				"heading": "As Camden’s police chief, I scrapped the force and started over. It worked.",
 				"news": "I was the chief of police in Camden, N.J., when we concluded the most violent year in our history. In 2012, we tallied 67 homicides, 172 shooting victims and 175 open-air drug markets. Children couldn’t walk safely to school. Cops left crime scenes unattended to respond to the next shooting; it was nonstop. Camden was ranked the most dangerous city in the country, with a murder rate more than 18 times the national average. More people were killed in our town of 77,000 than were killed that year in Hawaii, North Dakota, South Dakota, New Hampshire and Wyoming combined. And police were not always helping. The city needed guardians, but officers often saw themselves as warriors seeking to dominate criminals through toughness. Citizens didn’t trust us, and efforts to arrest our way to law and order clearly weren’t working. As chief, I was handcuffed by legacy work rules and binding arbitrator decisions that made it difficult to hold officers accountable for misconduct or poor performance. I couldn’t even reassign officers on desk duty to the street to suppress spiking gun violence.",
 				"img": "Images/newest_img/newest_10.jpg",
 				"likes": 111,
 				"unlikes": 15,
 				"comments": 72
 				}
+			],
+			
+			"politics": [
+				{				
+				"heading": "Trump Roars, and Davos Shrugs",
+				"news": "DAVOS, Switzerland—Two years ago President Donald Trump flew here and took the gathering of elites at the World Economic Forum by storm. Every conversation seemed to revolve around the American leader and his signature brand of political disruption. Trump came back this year, and was greeted with a shrug. Make no mistake, all the standard elements of the Trump tornado were on display. There was his keynote address boasting about how well the U.S. economy is doing on his watch. There was a blizzard of meetings with foreign leaders and U.S. finance and tech CEOs, at which he reportedly said he wished he owned stock in their firms because of how much money he had made them. There was the honking news conference with its usual lamentations about impeachment and the major sleaze bags trying to drive him from office. The big difference was the way most people at Davos, including Americans but especially the non-Americans, were responding to this flamboyant but familiar show. The consensus reaction: Whatever.",
+				"img": "Images/politics_img/main_pol_img.jpg",
+				"likes": 11,
+				"unlikes": 11,
+				"comments": 72
+				},	
+				{				
+				"heading": "'Scurrilous arguments': Michael Flynn's lawyer tells judge he must dismiss criminal case",
+				"news": "WASHINGTON — Lawyers for Michael Flynn and the Justice Department told a federal judge on Wednesday that he must agree to dismiss the criminal case against President Donald Trump's former national security adviser because the judge has no authority to do anything else. They were responding to a court filing from John Gleeson, a retired judge appointed to act as a friend of the court. Gleeson's assignment was to argue the opposite — that the judge has the power to decide whether to let the government drop the case that accused Flynn of lying to the FBI about his conversations with Russia's ambassador to the United States.",
+				"img": "Images/politics_img/other_pol_img_1.jpg",
+				"likes": 21,
+				"unlikes": 15,
+				"comments": 22
+				},	
+				{				
+				"heading": "Morning Consult Poll",
+				"news": "POLITICO's polling partner, Morning Consult, surveys more than 5,000 registered voters across the United States every day. This poll represents one week's worth of responses from voters who intend to vote in the Democratic primary. For each poll, Morning Consult asks those voters to tell us their first and second choice among the field of candidates vying to be the Democratic nominee for president. Morning Consult also asks how they feel about each candidate: whether they have a favorable or unfavorable opinion, or whether they're unfamiliar with a candidate.",
+				"img": "Images/politics_img/other_pol_img_2.jpg",
+				"likes": 11,
+				"unlikes": 195,
+				"comments": 922
+				},	
+				{				
+				"heading": "Taliban offer ceasefire in bid to restart talks with US",
+				"news": "The Taliban will implement a 10-day ceasefire with US troops, a reduction in violence with Afghan forces and discussions with Afghan government officials if it reaches a deal with US negotiators in talks in Doha, two sources have said. If an agreement is sealed, it could revive hopes for a long-term solution to the conflict in Afghanistan. Taliban and US negotiators met on Wednesday and Thursday to discuss the signing of a peace deal, according to a spokesman for the Taliban office in Qatar. The talks were useful and would continue for a few days, the spokesman, Suhail Shaheen, said on Twitter early on Friday.",
+				"img": "Images/politics_img/other_pol_img_3.jpg",
+				"likes": 31,
+				"unlikes": 13,
+				"comments": 2
+				},	
+				{				
+				"heading": "Austria's new green-conservative coalition rejects UN migrants treaty",
+				"news": "Austria is still refusing to sign up to a key United Nations treaty recognising the rights of migrants, despite a change in government that saw the far-right replaced by the country's green party. The new government took office on 7 January this year with conservative ÖVP leader Sebastian Kurz in for his second stint as chancellor. Mr Kurz was previously in coalition with the far-right FPÖ, but has now gone into government with the Austrian Green Party following elections. The previous Austrian government rejected the Global Compact for Safe, Orderly and Regular Migration - which recognises the rights of migrants to access basic services and be treated humanely. But it appears that the switch of the far-right for the greens has had no effect on the new government's position with regards to the compact",
+				"img": "Images/politics_img/other_pol_img_4.jpg",
+				"likes": 151,
+				"unlikes": 15,
+				"comments": 92
+				},
 			]
 		}
 	}
