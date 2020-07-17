@@ -156,17 +156,17 @@
 				"heading": "Coronavirus: China advises against travel to Wuhan as deaths surge",
 				"news": "Chinese authorities have urged people to stop travelling in and out of Wuhan, the city at the centre of a new virus outbreak that has killed 17 people. Those living in the city of 8.9 million people have also been told to avoid crowds and minimise public gatherings. The new virus has spread from Wuhan to several Chinese provinces, as well as the US, Thailand and South Korea.There are 440 confirmed cases, with the origin a seafood market that conducted illegal transactions of wild animal.Late on Wednesday the Chinese authorities confirmed the number of dead had almost doubled - from nine - in the space of a day. All fatalities so far have been in Hubei, the province around Wuhan.Officials in Hong Kong also reported the territory's first two cases.",
 				"img": "Images/newest_img/newest_1.jpg",
-				"likes": "30",
-				"unlikes": "250",
+				"likes": 30,
+				"unlikes": "50,
 				"comments": 212
 				},
 				{
 				"heading": "Jeff Bezos hack: UN experts demand probe of Saudi crown prince...",
 				"news": "UN human rights experts have demanded an immediate investigation into allegations Saudi Arabia's crown prince hacked Amazon boss Jeff Bezos's phone. They said Mohammed bin Salman should also be investigated for continuous, direct and personal efforts to target perceived opponents. A message from a phone number used by the prince has been implicated in a breach of Mr Bezos's data. The kingdom's US embassy has denied the absurd story. But the independent UN experts - Agnes Callamard, special rapporteur on summary executions and extrajudicial killings, and David Kaye, special rapporteur on freedom of expression - said the crown prince's possible involvement had to be investigated. Relations between Saudi Arabia and Mr Bezos - who also owns the Washington Post - worsened after Jamal Khashoggi, a prominent critic of the Saudi government and one of the newspaper's staff, was murdered in the Saudi consulate in Istanbul in 2018.",
 				"img": "Images/newest_img/newest_2.jpg",
-				"likes": "310",
-				"unlikes": "25",
-				"co
+				"likes": "10,
+				"unlikes": 25,
+				"comments: 54
 			]
 		}
 	}
