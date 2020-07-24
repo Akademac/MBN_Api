@@ -283,7 +283,9 @@
 				"img": "Images/sports_img/sports_div_1.jpg",
 				"likes": 211,
 				"unlikes": 91,
-				"comments": 78
+				"comments": 78,
+				"current": true,
+				"football": true	
 				},
 				{				
 				"heading": "Roger Federer out of French Open after knee surgery",
@@ -291,7 +293,8 @@
 				"img": "Images/sports_img/sports_div_2.jpg",
 				"likes": 51,
 				"unlikes": 71,
-				"comments": 7
+				"comments": 7,
+				"tennis": true	
 				},
 				{				
 				"heading": "Pep Guardiola vows to stay at Manchester City despite Champions League ban",
@@ -299,7 +302,8 @@
 				"img": "Images/sports_img/sports_div_3.jpg",
 				"likes": 11,
 				"unlikes": 1,
-				"comments": 87
+				"comments": 87,
+				"football": true	
 				},
 				{				
 				"heading": "NBA All-Star Game Fast Facts",
@@ -307,7 +311,8 @@
 				"img": "Images/sports_img/sports_div_4.jpg",
 				"likes": 131,
 				"unlikes": 13,
-				"comments": 8
+				"comments": 8,
+				"basketball": true	
 				}		
 			],
 			"technologies": [
